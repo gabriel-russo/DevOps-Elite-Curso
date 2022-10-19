@@ -1,0 +1,3 @@
+[submodule "aula-1/conversao-temperatura"]
+	path = aula-1/conversao-temperatura
+	url = git@github.com:gabriel-russo/DevOps-Elite-conversao-temperatura.git
