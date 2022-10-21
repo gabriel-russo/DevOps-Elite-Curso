@@ -1,0 +1,25 @@
+apiVersion: v1
+kind: Pod # Tipo de objeto que vai ser
+metadata: # Os metadados do objeto
+  name: meupod-azul
+  labels:
+    cor: azul
+spec: # As especificações desse objeto
+  containers: # Os containers que vai executar dentro do pod, pode ter mais de um dentro do pod
+  - name: site # Nome do container
+    image: fabricioveronez/web-page:blue # Imagem que vai utilizar nesse container
+    ports: # portas que vai utilizar para esse container
+    - containerPort: 80
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: meupod-verde
+  labels:
+    cor: verde
+spec:
+  containers:
+    - name: site
+      image: fabricioveronez/web-page:blue
+      ports:
+        - containerPort: 80
