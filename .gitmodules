@@ -1,3 +1,6 @@
 [submodule "aula-1/conversao-temperatura"]
 	path = aula-1/conversao-temperatura
 	url = git@github.com:gabriel-russo/DevOps-Elite-conversao-temperatura.git
+[submodule "aula-2/kube-news"]
+	path = aula-2/kube-news
+	url = git@github.com:gabriel-russo/DevOps-Elite-kube-news.git
