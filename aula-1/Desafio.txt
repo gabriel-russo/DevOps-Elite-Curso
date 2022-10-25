@@ -1,0 +1,4 @@
+Seguindo a aula, cria o seu repositório no GitHub baseado no
+projeto conversão temperatura (https://github.com/KubeDev/conversao-temperatura) e
+cria uma imagem Docker da aplicação e executa na sua máquina e me manda o seu repositório do GitHub pra
+ver se tá tudo certo (não esquece de seguir as melhores práticas).

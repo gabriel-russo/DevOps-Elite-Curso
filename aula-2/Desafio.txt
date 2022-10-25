@@ -1,0 +1,8 @@
+Agora, você precisa pegar o projeto do desafio 01 - o conversão temperatura
+(Questão 3 - https://github.com/KubeDev/conversao-temperatura) e rodar no Kubernetes.
+(Coloca aqui embaixo o seu repositório com o Dockerfile e os manifestos)
+
+---
+
+E pra encerrar o desafio, hora de colocar a aplicação Kube-News pra rodar no cluster. Então sua missão agora é criar o
+Dockerfile e os manifestos pra fazer o deploy. (coloca aqui o seu repositório no GitHub)
